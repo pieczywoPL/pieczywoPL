@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing guitar and programing
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord - pieczywoPL#6404
+- 📫 How to reach me: discord - . . .#6404
 
 <!---
 xevonate/xevonate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
