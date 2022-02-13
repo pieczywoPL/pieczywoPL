@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pieczywoPL
+- 👋 Hi, I’m @xevonate
 - 👀 I’m interested in playing guitar and programing
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
@@ -7,4 +7,8 @@
 <!---
 pieczywoPL/pieczywoPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Nick changelog:
+pieczywopl
+>>>
+xevonate
 --->
